@@ -23,17 +23,6 @@ namespace SeTest
             //Assert
             Assert.NotNull(result);
         }
-        [Fact]
-        public void About()
-        {
-            //Arrange
-            HomeController Controller = new HomeController();
-
-            //Act
-            ViewResult result = Controller.About() as ViewResult;
-
-            //Assert
-            Assert.Equal("Your application description page.");
-        }
+       
     }
 }

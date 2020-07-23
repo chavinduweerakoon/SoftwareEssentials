@@ -32,3 +32,8 @@ C:\Users\Chavidu\source\repos\SoftwareEssentials\SoftwareEssentials\obj\Debug\ne
 C:\Users\Chavidu\source\repos\SoftwareEssentials\SoftwareEssentials\obj\Debug\netcoreapp2.1\SoftwareEssentials.csproj.CopyComplete
 C:\Users\Chavidu\source\repos\SoftwareEssentials\SoftwareEssentials\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Index.g.cshtml.cs
 C:\Users\Chavidu\source\repos\SoftwareEssentials\SoftwareEssentials\obj\Debug\netcoreapp2.1\Razor\Views\HelloWorld\Welcome.g.cshtml.cs
+C:\Users\Chavidu\source\repos\SoftwareEssentials\SoftwareEssentials\obj\Debug\netcoreapp2.1\Razor\Views\Subjects\Create.g.cshtml.cs
+C:\Users\Chavidu\source\repos\SoftwareEssentials\SoftwareEssentials\obj\Debug\netcoreapp2.1\Razor\Views\Subjects\Delete.g.cshtml.cs
+C:\Users\Chavidu\source\repos\SoftwareEssentials\SoftwareEssentials\obj\Debug\netcoreapp2.1\Razor\Views\Subjects\Details.g.cshtml.cs
+C:\Users\Chavidu\source\repos\SoftwareEssentials\SoftwareEssentials\obj\Debug\netcoreapp2.1\Razor\Views\Subjects\Edit.g.cshtml.cs
+C:\Users\Chavidu\source\repos\SoftwareEssentials\SoftwareEssentials\obj\Debug\netcoreapp2.1\Razor\Views\Subjects\Index.g.cshtml.cs
